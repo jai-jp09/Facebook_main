@@ -1,0 +1,115 @@
+*{
+  margin: 0px;
+}
+#main {
+  background-color: #3b5998;
+  color:white;
+  height: 82px;
+  width: 100%;
+  }
+.row1,label,a{
+  font-size: 13px;
+  width: 164px;
+  cursor: pointer;
+
+}
+#tab {
+  margin-top: 15px;
+  float: right;
+padding-right: 200px;
+}
+h1 {
+  font-family: tahoma,verdana,arial,sans-serif;
+  font-size: 38px;
+  margin: 0;
+  color: #fff;
+  padding-top: 22px;
+  padding-left: 220px;
+
+ }
+ a:hover {
+
+  color: white;
+  font-style: underline;
+ }
+ #connect {
+
+  font-size: 25px;
+  font-style:bold;
+padding-top: 10px;
+padding-left: 100px;
+}
+ #write {
+  padding-left: 915px;
+  font-size: 50px;
+  padding-top: 1px;
+  font-style: bold;
+  font-family: :Segoe UI;
+
+ }
+
+p {
+  float: right;
+  padding-right: 450px;
+  font-size: 20px;
+  padding-top: 0.1px;
+}
+#data {
+padding-left: 920px;
+padding-top: 60px;
+}
+.box {
+  border-radius: 1px;
+  width: 143px;
+  height: 30px;
+  text-align: center;
+  background-color: white;
+
+}
+.box1 {
+  border-radius: 1px;
+    -webkit-border-radius:5px;
+  width: 290px;
+  height: 30px;
+  text-align: center;
+  background-color: white;
+}
+.birthday{
+  display: inline-block;
+}
+label {
+  font-style: bold;
+  font-size: 15px;
+}
+span {
+  font-size: 12px;
+}
+#sign {
+
+  background-color: green;
+  font-size: 19px;
+  font-weight: 700;
+  letter-spacing: 1px;
+  color: white;
+  min-width: 194px;
+  padding: 7px 20px;
+  text-align: center;
+  -webkit-border-radius:5px;
+    background: -webkit-linear-gradient(#67ae55, #578843);
+  -webkit-box-shadow: inset 0 1px 1px #a4e388;
+  border: 1px solid;
+border-color: #3b6e22 #3b6e22 #2c5115;
+  margin-top: 10px;
+margin-bottom: 10px;
+  text-shadow: 0 1px 2px rgba(0,0,0,.5);
+  cursor: pointer;
+
+}
+
+.sign:hover {
+
+  .signbut:hover {
+  background: -webkit-linear-gradient(#79bc64, #578843);
+}
+
+ 
